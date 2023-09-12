@@ -1,0 +1,50 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url("chocdesserts.jpg");
+    background-image: no repeat;
+    background: whitesmoke;
+    text-align: center;
+}
+
+.container{
+    width: fit-content;
+    margin: auto;
+    overflow: hidden;
+
+}
+ul{
+    padding: 0%;
+    margin: 0%;
+}
+#box{
+    margin-top: auto;
+    background-color: blue;
+}
+#boxes.box{
+    float: left;
+    text-align: center;
+    width: fit-content;
+    padding: 12px;
+    font-size: 13px;
+
+}
+.dark{
+    padding: 15px;
+    background: rgba( 0, 0, 0, 0.829);
+    color: darkgray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+footer{
+    padding: 20px;
+    margin-top: 20px;
+    color: white;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+b{
+    current scroll-timeline: 0;
+}
